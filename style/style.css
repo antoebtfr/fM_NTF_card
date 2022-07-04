@@ -1,0 +1,14 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+    height: 100vh;
+    color: hsl(0, 0%, 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-family: Outfit;
+}
+
+.attribution{
+    display: none;
+}
