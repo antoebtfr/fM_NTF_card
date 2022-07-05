@@ -118,7 +118,7 @@
     height: 100%;
 }
 
-.nft-card-details h2 a:hover {
+.nft-card-details h1 a:hover {
     color: hsl(178, 100%, 50%);
 }
 
