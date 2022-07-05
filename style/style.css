@@ -6,9 +6,10 @@ body{
     align-items: center;
     justify-content: center;
     font-size: 18px;
-    font-family: Outfit;
+    font-family: 'Outfit';
 }
 
 .attribution{
     display: none;
 }
+
